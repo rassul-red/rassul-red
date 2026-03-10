@@ -1,16 +1,4 @@
-<div align="center">
-
-```
- ____                       _
-|  _ \ __ _ ___ ___ _   _| |
-| |_) / _` / __/ __| | | | |
-|  _ < (_| \__ \__ \ |_| | |
-|_| \_\__,_|___/___/\__,_|_|
-```
-
 `Aktau → Seoul → Hong Kong → wherever the next thing takes me`
-
-</div>
 
 ---
 
