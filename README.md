@@ -1,4 +1,4 @@
-`Aktau → Seoul → Hong Kong → wherever the next thing takes me`
+`Aktau → Seoul → wherever the next thing takes me`
 
 ---
 
