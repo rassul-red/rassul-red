@@ -10,7 +10,7 @@ currently: working on AI startup
 ```
 prev:  marketing agency → $18k ARR
        VR startup → $10k in month one, sold to enterprises
-       now → AI
+       and more on linkedin
 ```
 
 skills: building stuff and getting them to market
