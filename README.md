@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rassul-red/rassul-red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+ ____                       _
+|  _ \ __ _ ___ ___ _   _| |
+| |_) / _` / __/ __| | | | |
+|  _ < (_| \__ \__ \ |_| | |
+|_| \_\__,_|___/___/\__,_|_|
+```
 
-Here are some ideas to get you started:
+`Aktau → Seoul → Hong Kong → wherever the next thing takes me`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+building stuff since 14, from kazakhstan 🇰🇿
+studying at **KAIST** 🇰🇷, based in south korea
+currently: working on AI startup
+
+```
+prev:  marketing agency → $18k ARR
+       VR startup → $10k in month one, sold to enterprises
+       now → AI
+```
+
+skills: building stuff and getting them to market, being slightly too ambitious
+
+```
+14 →  educational business
+15 →  marketing agency
+16 →  VR startups
+19 →  today
+```
