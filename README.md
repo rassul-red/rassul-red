@@ -5,7 +5,7 @@
 building stuff since 14, from kazakhstan 🇰🇿
 studying at **KAIST** 🇰🇷, based in south korea
 
-#currently: working on AI startup
+currently: working on AI startup
 
 ```
 prev:  marketing agency → $18k ARR
