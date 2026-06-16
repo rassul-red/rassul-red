@@ -19,5 +19,5 @@ skills: building stuff and getting them to market
 14 →  educational business
 15 →  marketing agency
 16 →  VR startups
-19 →  today
+19 →  current
 ```
