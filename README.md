@@ -1,11 +1,9 @@
-`Aktau → Seoul → wherever the next thing takes me`
+`Aktau → Seoul → SF`
 
 ---
 
 building stuff since 14, from kazakhstan 🇰🇿
 prev. **KAIST**, based in SF
-
-currently: working on AI startup
 
 ```
 prev:  marketing agency → $18k ARR
