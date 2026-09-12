@@ -3,7 +3,7 @@
 ---
 
 building stuff since 14, from kazakhstan 🇰🇿
-studying at **KAIST** 🇰🇷, based in south korea
+prev. **KAIST**, based in SF
 
 currently: working on AI startup
 
@@ -19,5 +19,5 @@ skills: building stuff and getting them to market
 14 →  educational business
 15 →  marketing agency
 16 →  VR startups
-19 →  current
+19 →  aralabs
 ```
